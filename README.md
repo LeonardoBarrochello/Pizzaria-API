@@ -6,7 +6,7 @@ O desafio  consiste em construir uma api que posteriormente seria consumido por 
 - consultar e cadastrar pizzas , 
 - consultar e efetuar pedidos com base nas pizzas cadastrada
 
-# Como rodar a aplicação
+## Como rodar a aplicação
 
 - Certifique que tenha o Nodejs instalado em sua máquina
 - Clone o projeto e na raiz rode o comando npm install ou yarn para instalar todas as dependencias
